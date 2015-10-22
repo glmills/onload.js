@@ -21,4 +21,7 @@ The handler appends the functions to a list (`onLoad.todos[]`) in the order they
 
 NOTE --- Using this handler, you cannot use window.onload for anything else, as this function is built on it.
 
+FOR LAZY PEOPLE:
+`<script src="https://raw.githubusercontent.com/glmills/onload.js/master/onload.js"></script>`
+
 Licensed under GNU Affero GPL v3.0
